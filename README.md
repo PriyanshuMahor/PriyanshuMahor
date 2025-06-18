@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PriyanshuMahor
-- 👀 I’m interested in Software Development, Artificial Intellignece-Data Science,Web Development 
+- 👀 I’m interested in Software Development, Artificial Intelligence-Data Science,Web Development 
 - 🌱 I’m currently learning Web Development and Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me priyanshumahor65@gmail.com
